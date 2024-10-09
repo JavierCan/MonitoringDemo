@@ -1,7 +1,7 @@
-streamlit
-pymongo
-pandas
-plotly
-wordcloud
-matplotlib
-nltk
+streamlit==1.25.0
+pymongo==4.5.0
+pandas==1.5.0
+plotly==5.15.0
+wordcloud==1.9.2
+matplotlib==3.7.2
+nltk==3.8.1
